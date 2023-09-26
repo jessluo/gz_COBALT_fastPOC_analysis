@@ -1,0 +1,5 @@
+.ipynb_checkpoints
+plots/*
+data/*.nc
+tmp_*
+bilinear*
